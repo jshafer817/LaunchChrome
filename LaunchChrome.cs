@@ -56,7 +56,7 @@ namespace LaunchChrome
             }
             if (SelectedItem == "Mardi Gras Photos")
             {
-                System.Diagnostics.Process.Start("https://www.google.com/search?hl=en&tbm=isch&source=hp&biw=1920&bih=974&ei=lyuOWuXZB4-wzwKmh5iIDw&q=marti+gras+photos&oq=marti+gras+photos");
+                System.Diagnostics.Process.Start("https://www.google.com/search?hl=en&tbm=isch&source=hp&biw=1920&bih=974&ei=lyuOWuXZB4-wzwKmh5iIDw&q=mardi+gras+photos&oq=mardi+gras+photos");
             }
         }
 
