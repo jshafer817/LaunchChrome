@@ -1,0 +1,11 @@
+ContrImages.cs
+
+Around line: 2000
+
+private void ToolBarImport_Click() {
+
+if (Plugins.HookMethod(this, "ContrImages.ToolBarImport_Click_Start", PatCur, this))
+{
+    FillDocList(true);
+    return;
+}
