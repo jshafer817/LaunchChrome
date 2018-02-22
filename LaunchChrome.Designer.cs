@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(277, 75);
             this.Controls.Add(this.comboBox1);
             this.Name = "LaunchChrome";
-            this.Text = "Launch Chrome";
+            this.Text = "Launch Browser";
             this.ResumeLayout(false);
 
         }

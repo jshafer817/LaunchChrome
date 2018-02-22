@@ -54,7 +54,7 @@ namespace LaunchChrome
             {
                 System.Diagnostics.Process.Start("https://www.google.com/search?source=hp&ei=4iuOWvnJBcGWzwL1566gAg&q=letters&oq=letters");
             }
-            if (SelectedItem == "Marti Gras Photos")
+            if (SelectedItem == "Mardi Gras Photos")
             {
                 System.Diagnostics.Process.Start("https://www.google.com/search?hl=en&tbm=isch&source=hp&biw=1920&bih=974&ei=lyuOWuXZB4-wzwKmh5iIDw&q=marti+gras+photos&oq=marti+gras+photos");
             }
